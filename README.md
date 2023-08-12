@@ -5,7 +5,7 @@ Starting in JAVA programming language for further deepening and creation of more
 * ✅ Conceitos de Programação
 * ✅ Introdução à linguagem Java
 * ✅ Estrutura sequencial
-* Estrutura condicional
+* ✅ Estrutura condicional
 * Estruturas repetitivas
 * Outros tópicos básicos sobre Java
 * Introdução à programação orientada a objetos
